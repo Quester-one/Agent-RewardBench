@@ -2,7 +2,7 @@
 
 
 <p>
-  <img src="docs/overview.png" width="95%" height="95%" />
+  <img src="docu/overview.png" width="95%" height="95%" />
 </p>
 
 Paper: Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents
