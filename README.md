@@ -21,6 +21,16 @@
   <img src="docs/bench.png" width="95%" height="95%" />
 </p>
 
+
+## 🚀 Quick Start
+
+### 1. Clone the Repository
+
+```bash
+git clone git@github.com:Quester-one/Agent-RewardBench.git
+cd Agent-RewardBench
+```
+
 ## 📦 Dataset Access
 
 **Agent-RewardBench** is available on Hugging Face Datasets: [Agent-RewardBench](https://huggingface.co/datasets/MultimodalAgent/Agent-RewardBench)
@@ -31,3 +41,4 @@ To load the dataset, use the following code:
 from datasets import load_dataset
 
 dataset = load_dataset("MultimodalAgent/Agent-RewardBench")
+```
