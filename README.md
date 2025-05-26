@@ -27,11 +27,14 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Quester-one/Agent-RewardBench.git
+git clone https://github.com/Quester-one/Agent-RewardBench.git
 cd Agent-RewardBench
+conda create -n agentrewardbench python=3.10
+conda activate agentrewardbench
+pip install -r requirements.txt
 ```
 
-## 📦 Dataset Access
+### 2. Download Dataset
 
 **Agent-RewardBench** is available on Hugging Face Datasets: [Agent-RewardBench](https://huggingface.co/datasets/MultimodalAgent/Agent-RewardBench)
 
