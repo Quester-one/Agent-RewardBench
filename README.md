@@ -12,9 +12,14 @@
 
 **Agent-RewardBench** is a  benchmark designed to evaluate reward modeling in real-world multimodal agent scenarios. It covers three critical dimensions:
 
-- **Perception**
-- **Planning**
-- **Safety**
+- **Perception**: web perception and embodied perception.
+- **Planning**: web navigation, embodied intelligence and travel planning.
+- **Safety**: web attacks and embodied safety.
+
+
+<p>
+  <img src="docs/bench.png" width="95%" height="95%" />
+</p>
 
 ## 📦 Dataset Access
 
