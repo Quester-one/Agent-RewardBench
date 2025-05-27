@@ -1,0 +1,4 @@
+vllm==0.6.4
+transformers==4.45.2
+wcwidth==0.2.13
+rouge==1.0.1

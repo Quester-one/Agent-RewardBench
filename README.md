@@ -34,7 +34,26 @@ conda activate agentrewardbench
 pip install -r requirements.txt
 ```
 
-### 2. Download Dataset
+
+### 2. Config Your Model
+
+```python
+http_proxy = "your http_proxy"
+https_proxy = "your https_proxy"
+
+MODEL2URL = {"Qwen2-VL-7B-Instruct":"your api url"}
+MODEL2KEY = {"Qwen2-VL-7B-Instruct": "your api key"}
+MODEL2MODEL = {"Qwen2-VL-7B-Instruct": "Qwen2-VL-7B-Instruct"}
+```
+
+
+### 3. Load Your Model
+
+```python
+
+```
+
+### 4. Download Dataset
 
 **Agent-RewardBench** is available on Hugging Face Datasets: [Agent-RewardBench](https://huggingface.co/datasets/MultimodalAgent/Agent-RewardBench)
 
@@ -44,4 +63,12 @@ To load the dataset, use the following code:
 from datasets import load_dataset
 
 dataset = load_dataset("MultimodalAgent/Agent-RewardBench")
+```
+
+### 5. Run
+
+
+
+```python
+
 ```
