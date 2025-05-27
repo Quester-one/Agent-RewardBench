@@ -68,10 +68,9 @@ from datasets import load_dataset
 dataset = load_dataset("MultimodalAgent/Agent-RewardBench")
 ```
 
-### 5. Run
-
-
+### 5. Run Your Model on Agent-RewardBench
 
 ```python
 python run.py
+python performance.py
 ```
