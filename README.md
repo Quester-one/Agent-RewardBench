@@ -80,18 +80,6 @@ python performance.py
 
 ## 📦 Source Dataset
 
-Agent-RewardBench involves Web (mobile, web, and desktop), Embodied (driving, house, Minecraft), and Travel, with data sources based on the following excellent works!
+Agent-RewardBench involves Web (mobile, web, and desktop), Embodied (driving, house, Minecraft), and Travel, with data sources based on the following excellent works!]
 
-Seeclick
-
-MFE-ETP 
-
-Mind2Web
-
-PCA
-
-TravelPlanner
-
-Pop-up attacks
-
-MSSBench
+[Seeclick](https://arxiv.org/abs/2401.10935), [MFE-ETP](https://arxiv.org/abs/2407.05047), [Mind2Web](https://arxiv.org/abs/2306.06070), [PCA](https://arxiv.org/abs/2402.15527), [TravelPlanner](https://arxiv.org/abs/2402.01622?), [Pop-up attacks](https://arxiv.org/abs/2411.02391), [MSSBench](https://arxiv.org/abs/2410.06172)
