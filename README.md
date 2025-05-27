@@ -51,7 +51,7 @@ MODEL2MODEL = {"Qwen2-VL-7B-Instruct": "Qwen2-VL-7B-Instruct"}
 
 ### 3. Load Your Model
 
-```python
+```bash
 export CUDA_VISIBLE_DEVICES=0,1,2,3
 vllm serve Qwen2-VL-7B-Instruct --port 22347 --tensor-parallel-size 4 --trust-remote-code --limit_mm_per_prompt 'image=1'
 ```
