@@ -3,9 +3,10 @@
 
 ## 📄 Paper
 
+📍 *Source code for Agent-RewardBench, ACL 2025 Main*
+
 **Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**
 
-📍 *Source code for Agent-RewardBench, ACL 2025 Main*
 
 
 <p>
