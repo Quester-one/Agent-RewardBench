@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ### 2. Config Your Model
 
+Please create a file named `config_private.py` and fill in the following information. Here is an example using **Qwen2-VL-7B-Instruct**.
+
 ```python
 http_proxy = "your http_proxy"
 https_proxy = "your https_proxy"
@@ -50,6 +52,8 @@ MODEL2MODEL = {"Qwen2-VL-7B-Instruct": "Qwen2-VL-7B-Instruct"}
 ```
 
 ### 3. Load Your Model
+
+Using vLLM to load the model.
 
 ```bash
 export CUDA_VISIBLE_DEVICES=0,1,2,3
