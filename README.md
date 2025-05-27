@@ -3,7 +3,9 @@
 
 ## 📄 Paper
 
-*Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents*
+**Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**
+
+**ACL 2025**
 
 
 <p>
