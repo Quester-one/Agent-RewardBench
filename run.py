@@ -87,8 +87,9 @@ def eval():
             result_string_list.append([result_1_raw, result_2_raw])
         result[dataset_name + "_result"]["acc_list"] = acc_list
         result[dataset_name + "_result"]["result_string_list"] = result_string_list
-    with open('ex/{}.pkl'.format(args.model_name), 'wb') as f:
+    with open('experiment/{}.pkl'.format(args.model_name), 'wb') as f:
         pickle.dump(result, f)
+    print("end")
 
 
 if __name__ == "__main__":
