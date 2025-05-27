@@ -62,7 +62,7 @@ vllm serve Qwen2-VL-7B-Instruct --port 22347 --tensor-parallel-size 4 --trust-re
 
 ### 4. Download Dataset
 
-**Agent-RewardBench** is available on Hugging Face Datasets: [Agent-RewardBench](https://huggingface.co/datasets/MultimodalAgent/Agent-RewardBench)
+**Agent-RewardBench** is available on Hugging Face Datasets: [🤗 MultimodalAgent/Agent-RewardBench](https://huggingface.co/datasets/MultimodalAgent/Agent-RewardBench)
 
 To load the dataset, use the following code:
 
